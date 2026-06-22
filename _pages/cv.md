@@ -67,9 +67,9 @@ Teaching
 
 Skills
 ======
-* **General:** Problem Solving, Collaboration, Communication, Organization, Leadership
-* **Software:** Microsoft Office, ANSYS, Siemens NX, LaTeX, LabVIEW
-* **Programming:** MATLAB/Simulink, Python, C++
+* **General:** Problem Solving, Collaboration, Communication, Organization
+* **Software:** Microsoft Office, Google Workspace, LaTeX
+* **Programming:** MATLAB/Simulink, Python
 * **Languages:** English, Spanish
 
 Awards and Certifications
