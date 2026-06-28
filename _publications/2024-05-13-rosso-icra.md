@@ -8,5 +8,6 @@ date: 2024-05-13
 venue: '2024 IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: 'https://doi.org/10.1109/icra57147.2024.10610477'
 codeurl: 'https://github.com/conhugh/RoSSO'
+arxivurl: 'https://arxiv.org/abs/2309.08742'
 citation: 'Y. John, C. Hughes, G. Díaz-García, J. R. Marden, and F. Bullo. (2024). &quot;RoSSO: A High-Performance Python Package for Robotic Surveillance Strategy Optimization Using JAX.&quot; <i>2024 IEEE International Conference on Robotics and Automation (ICRA)</i>, pp. 2169–2175.'
 ---

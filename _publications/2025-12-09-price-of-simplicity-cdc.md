@@ -8,5 +8,6 @@ date: 2025-12-09
 venue: '2025 IEEE 64th Conference on Decision and Control (CDC)'
 paperurl: 'https://doi.org/10.1109/cdc57313.2025.11312244'
 codeurl: 'https://github.com/yohanjohn307/multilocation-inventory-control'
+arxivurl: 'https://arxiv.org/abs/2503.22639'
 citation: 'Y. John, V. Shah, J. A. Preiss, M. Alizadeh, and J. R. Marden. (2025). &quot;The Price of Simplicity: Analyzing Decoupled Policies for Multi-Location Inventory Control.&quot; <i>2025 IEEE 64th Conference on Decision and Control (CDC)</i>, pp. 6177–6182.'
 ---
