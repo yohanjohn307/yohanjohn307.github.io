@@ -3,7 +3,7 @@ title: "ME 155A: Control System Design"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/me155a-control-system-design
-venue: "University of California, Santa Barbara, Department of Mechanical Engineering"
+venue: "University of California, Santa Barbara"
 location: "Santa Barbara, CA"
 ---
 

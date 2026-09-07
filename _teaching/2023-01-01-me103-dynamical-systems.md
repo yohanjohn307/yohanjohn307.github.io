@@ -3,7 +3,7 @@ title: "ME 103: Dynamical Systems"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/me103-dynamical-systems
-venue: "University of California, Santa Barbara, Department of Mechanical Engineering"
+venue: "University of California, Santa Barbara"
 location: "Santa Barbara, CA"
 ---
 

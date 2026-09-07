@@ -3,7 +3,7 @@ title: "ME/ECE 179L: Introduction to Robotics: Design Laboratory"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/me179l-intro-robotics
-venue: "University of California, Santa Barbara, Department of Mechanical Engineering"
+venue: "University of California, Santa Barbara"
 location: "Santa Barbara, CA"
 ---
 

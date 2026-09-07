@@ -3,7 +3,7 @@ title: "ENGR 3: Introduction to Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/engr3-intro-programming
-venue: "University of California, Santa Barbara, College of Engineering"
+venue: "University of California, Santa Barbara"
 location: "Santa Barbara, CA"
 ---
 
