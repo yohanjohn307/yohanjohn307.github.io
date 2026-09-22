@@ -31,9 +31,20 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1em;
+    margin-top: 0;
     max-width: 100%;
-    padding: 0 1em 1em;
+    padding: 0.4em 1em;
+
+    /* follow links and copyright sit side by side on one row */
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 1.5em;
+
+    &::after {
+      display: none;
+    }
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -60,6 +71,11 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  line-height: 1.4;
+
+  @include breakpoint($small) {
+    text-align: right;
+  }
 }
 
 .page__footer-follow {
@@ -71,8 +87,8 @@
 
   li {
     display: inline-block;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
     font-family: $sans-serif-narrow;
     font-size: $type-size-6;
     text-transform: uppercase;
