@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a Ph.D. candidate in Mechanical Engineering at the University of California, Santa Barbara, advised by Professors [Francesco Bullo](https://fbullo.github.io/index.html) and [Jason R. Marden](https://web.ece.ucsb.edu/~jrmarden/). My research sits at the intersection of control theory, operations research, and optimization with a focus on resource allocation problems in stochastic systems. Current projects include optimization of robotic patrol routes and optimal control for industrial refrigeration facilities.
 
-Before UCSB, I earned an M.S. in Mechanical Engineering from MIT, where I worked on observability analysis for power distribution systems. I hold a B.S. in Mechanical Engineering from Georgia Tech. Between my M.S. and Ph.D., I spent three years at GE Global Research, working in the Controls and Optimization team on Blackhawk and Apache engine controls. I have also interned at SpaceX and Oak Ridge National Laboratory.
+Before UCSB, I earned an M.S. in Mechanical Engineering from MIT, where I worked on observability analysis for power distribution systems. I hold a B.S. in Mechanical Engineering from Georgia Tech. Between my M.S. and Ph.D., I spent three years on the Controls and Optimization team at GE Global Research, working on Blackhawk and Apache engine controls. I have also interned at SpaceX and Oak Ridge National Laboratory.
 
 I am currently seeking full-time positions in industry related to controls, modeling, and simulation.
 
